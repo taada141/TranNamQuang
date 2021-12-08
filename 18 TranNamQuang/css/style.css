@@ -1,0 +1,37 @@
+body{
+    background-image: url("../img/kitten-wallpaper-for-android.jpg");
+}
+.box{
+    margin-top: 25px;
+    position: absolute;
+    background-position: center;
+    width: 100%;
+    
+}
+.container{
+    background-color: rgba(245, 245, 245, 0.5);
+    margin-top: 25px;
+    height: 710px;
+    width: 100%;
+    border-radius: 10px;
+
+}
+.container .h2{
+    margin-bottom: 15px;
+}
+.box nav ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 15px;
+
+}
+nav{
+    display: flex;
+    border-radius: 10px;
+    background-color: rgb(184, 204, 105, 0.5);
+    height: 40px;
+    align-items: center;
+}
+.container button{
+    border:1px solid blue;
+}
